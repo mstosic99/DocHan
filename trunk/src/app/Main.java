@@ -10,6 +10,7 @@ public class Main {
 		MainFrame mf = MainFrame.getInstance();
 		if(mf.getWorkspaceModel() == null) return;
 		mf.setVisible(true);
+		mf.
 	}
 
 }
